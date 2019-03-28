@@ -1,4 +1,4 @@
-//Program for factorial of a number using generic function
+//Program for factorial of a number using generic functions
 
 
 #include <iostream>
